@@ -39,15 +39,16 @@
   <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
   <img src="https://img.icons8.com/color/48/material-ui.png" alt="MUI" />
   <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" />
-  <img src="https://camo.githubusercontent.com/f6bf5ee2b30310ad83a81212b9be69bdc2bb577f2ebe868ad89f8586b4721ffc/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" alt="Ant Design" stlye="width:48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="48" height="48" alt="Ant Design" />
+
 
   <!-- Backend -->
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/ios-filled/50/express-js.png" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
   <img src="https://avatars.githubusercontent.com/u/59034516?s=200&v=4" width="48" height="48" alt="NestJS" />
   <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="48" height="48"/>
   <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="48" height="48" alt="Prisma" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-api-integration-flat-color-tal-revivo.png" alt="API" />
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-api-web-flaticons-lineal-color-flat-icons.png" alt="API" />
 
   <!-- Tools & DevOps -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
@@ -57,7 +58,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" />
   <img src="https://img.icons8.com/dusk/48/postman-api.png" alt="Postman" />
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-github-actions-a-devops-software-development-practice-logo-color-tal-revivo.png" alt="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub Actions" />
 </p>
 
 
