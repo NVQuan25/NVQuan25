@@ -1,11 +1,12 @@
-### <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+### <img align="left" width="300" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif">
 
 <h1 align="center">Hi 👋, I'm Van Quan</h1>
-<h3 align="center">A passionate Fullstack Developer from Vietnam 🇻🇳</h3>
+<h3 align="center">A passionate Fullstack Developer from Vietnam</h3>
 
----
+<p><strong>Dynamic Frontend Developer</strong> with <strong>1+ year of experience</strong> in crafting <strong>responsive web applications</strong> that enhance <strong>user engagement</strong> and <strong>performance</strong>. Proficient in modern <strong>JavaScript</strong> and <strong>TypeScript</strong> frameworks such as <strong>Next.js</strong> and <strong>React</strong>, demonstrating a solid foundation in <strong>HTML</strong> & <strong>CSS</strong> to create <strong>user-friendly interfaces</strong>. Skilled in collaborating with <strong>cross-functional teams</strong> to refine <strong>project scopes</strong> and deliver <strong>high-quality, maintainable code</strong>. Strong commitment to <strong>optimizing front-end performance</strong> and ensuring adherence to <strong>best coding practices</strong>, driving impactful results in diverse development environments.</p>
+<p><strong>Versatile Backend Developer</strong> with hands-on experience in building scalable, secure, and high-performance server-side applications. Proficient in modern backend frameworks such as <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>NestJS</strong>, with a solid grasp of RESTful API design and integration. Demonstrates strong database skills using both <strong>SQL (Sequelize)</strong> and <strong>NoSQL (Prisma, MongoDB)</strong> solutions. Experienced in implementing authentication, role-based access control, and data validation to ensure system integrity. Adept at working with <strong>Dockerized environments</strong> and leveraging <strong>CI/CD pipelines with GitHub Actions</strong> to streamline deployment workflows. Passionate about writing clean, modular code and continuously improving backend architecture for long-term maintainability and performance.</p>
 
-<h2 align="center">📫 Contact Me</h2>
+## 📫 Contact Me
 <p align="center">
   <a href="mailto:vquan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-vquan.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ngo-quan-807952233"><img src="https://img.shields.io/badge/LinkedIn-Ngo%20Quan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
