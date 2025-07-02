@@ -5,8 +5,7 @@
 
 ---
 
-## 📫 Contact Me
-
+<h2 align="center">📫 Contact Me</h2>
 <p align="center">
   <a href="mailto:vquan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-vquan.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ngo-quan-807952233"><img src="https://img.shields.io/badge/LinkedIn-Ngo%20Quan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
