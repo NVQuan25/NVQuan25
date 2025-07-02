@@ -1,4 +1,4 @@
-### <img align="left" width="300" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif">
+### <img align="left" width="300" style="padding-right:20px" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif">
 
 <h1 align="center">Hi 👋, I'm Van Quan</h1>
 <h3 align="center">A passionate Fullstack Developer from Vietnam</h3>
