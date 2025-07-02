@@ -1,86 +1,89 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+### <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+
 <h1 align="center">Hi 👋, I'm Van Quan</h1>
+<h3 align="center">A passionate Fullstack Developer from Vietnam 🇻🇳</h3>
+
+---
+
+## 📫 Contact Me
+
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <a href="mailto:vquan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-vquan.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ngo-quan-807952233"><img src="https://img.shields.io/badge/LinkedIn-Ngo%20Quan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/Vquan2509/"><img src="https://img.shields.io/badge/Facebook-Van%20Quan-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://github.com/NVQuan25"><img src="https://img.shields.io/badge/GitHub-NVQuan25-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+---
 
-<br />
+## 💻 Tech Stack
 
-## 📫 How to reach me:
+### Languages
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ngo-quan-807952233" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/Vquan2509/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/NVQuan25" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:vquan.dev@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## Skills:
+### Frontend
+
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-
-  <!-- Frontend -->
-  <img src="https://img.icons8.com/officel/48/react.png" alt="ReactJS" />
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" />
-  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" />
-  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/material-ui.png" alt="MUI" />
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="48" height="48" alt="Ant Design" />
-
-
-  <!-- Backend -->
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
-  <img src="https://avatars.githubusercontent.com/u/59034516?s=200&v=4" width="48" height="48" alt="NestJS" />
-  <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="48" height="48"/>
-  <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="48" height="48" alt="Prisma" />
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-api-web-flaticons-lineal-color-flat-icons.png" alt="API" />
-
-  <!-- Tools & DevOps -->
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" />
-  <img src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab" />
-  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
-  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" />
-  <img src="https://img.icons8.com/dusk/48/postman-api.png" alt="Postman" />
-  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
 </p>
 
+### Backend
 
-## Activities:
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=graphql&logoColor=white"/>
+</p>
+
+### Tools & DevOps
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+---
+
+## 📜 Certificates
+
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
+* [![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?logo=freeCodeCamp\&logoColor=white\&style=for-the-badge)](https://www.freecodecamp.org/certification/QuanisCoding/responsive-web-design)
+* [![Front End Libraries](https://img.shields.io/badge/freeCodeCamp-Front_End_Libraries-0A0A23?logo=freeCodeCamp\&logoColor=white\&style=for-the-badge)](https://www.freecodecamp.org/certification/QuanisCoding/front-end-development-libraries)
+
+---
+
+## 📊 GitHub Stats
 
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVQuan25&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=NVQuan25&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVQuan25&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NVQuan25&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="100%"/>
     </td>
     <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
+      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Developer Gif" width="100%"/>
     </td>
   </tr>
 </table>
-
-# Certificates:
-
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-
-- [![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/QuanisCoding/responsive-web-design)
-- [![Front End Libraries](https://img.shields.io/badge/freeCodeCamp-Front_End_Libraries-0A0A23?logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/QuanisCoding/front-end-development-libraries)
-
