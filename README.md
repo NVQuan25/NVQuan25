@@ -81,7 +81,6 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![FREECODECAMP](https://img.shields.io/badge/-MATLAB-orange) Responsive Website Certification](https://www.freecodecamp.org/certification/QuanisCoding/responsive-web-design)
-- [![FREECODECAMP](https://img.shields.io/badge/-MATLAB-orange) Front end Development Libraries Certification](https://www.freecodecamp.org/certification/QuanisCoding/front-end-development-libraries)
-
+- [![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/QuanisCoding/responsive-web-design)
+- [![Front End Libraries](https://img.shields.io/badge/freeCodeCamp-Front_End_Libraries-0A0A23?logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/QuanisCoding/front-end-development-libraries)
 
